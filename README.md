@@ -49,11 +49,11 @@ Passionate computer science student specializing in artificial intelligence with
 
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <div>
-    <img src="https://github.com/user-attachments/assets/6b53baab-8cc2-496a-a411-a41e452bfd7d" width="300" alt="HTML/CSS Certification">
+    <img src="https://github.com/user-attachments/assets/6b53baab-8cc2-496a-a411-a41e452bfd7d" width="600" alt="HTML/CSS Certification">
     <p align="center">HTML/CSS Certification<br>Pearson Certiport</p>
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/d04f2d3f-ba9c-4087-8d36-192605bea63f" width="300" alt="JavaScript Certification">
+    <img src="https://github.com/user-attachments/assets/d04f2d3f-ba9c-4087-8d36-192605bea63f" width="600" alt="JavaScript Certification">
     <p align="center">JavaScript Certification<br>Pearson Certiport</p>
   </div>
 </div>
