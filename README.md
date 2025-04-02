@@ -73,6 +73,6 @@ Passionate computer science student specializing in artificial intelligence with
 ---
 <div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRavnOP&countColor=%23263759)
+<img src="https://komarev.com/ghpvc/?username=RavnOP&label=Profile%20views&color=0e75b6&style=flat" alt="RavnOP" />
 
 </div>
