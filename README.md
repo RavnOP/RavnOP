@@ -70,10 +70,3 @@ Passionate computer science student specializing in artificial intelligence with
 
 </div>
 
----
-
-<div align="center">
-  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=RavnOP)
-
-</div>
