@@ -36,9 +36,10 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6b53baab-8cc2-496a-a411-a41e452bfd7d" style="border-radius: 15px; width: 500px; border: 4px solid #0077B5;" alt="HTML & CSS Certificate" />
+  <p><strong>Certified in HTML & CSS</strong> - Pearson Certiport Certification </p> 
   <img src="https://github.com/user-attachments/assets/d04f2d3f-ba9c-4087-8d36-192605bea63f" style="border-radius: 15px; width: 500px; border: 4px solid #0077B5;" alt="JavaScript Certificate" />
 
-  <p><strong>Certified in HTML & CSS</strong> - Pearson Certiport Certification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Certified in JavaScript</strong> - Pearson Certiport Certification</p>
+  <p><strong>Certified in JavaScript</strong> - Pearson Certiport Certification</p>
 </div>
 
 ---
